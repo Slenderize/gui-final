@@ -1,0 +1,14 @@
+.navbar-fixed-top{
+background: url("https://i.pinimg.com/originals/b4/bf/af/b4bfafa2dccc4cf3fe24f774b3f13b12.jpg");
+background-repeat: no-repeat;
+}
+
+.container{
+  margin-top: 40px;
+  padding: 0 0 0 40px;
+}
+
+.nav{
+  background: black;
+  font-style: italic;
+}

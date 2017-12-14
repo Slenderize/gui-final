@@ -1,0 +1,22 @@
+.container{
+  padding: 5%;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.heading{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.progress{
+  width: 85%
+}
+.progessbar{
+  text-align: left;
+}
+button{
+  height: 60px;
+  margin-top: 20px;
+  width: 50%;
+}

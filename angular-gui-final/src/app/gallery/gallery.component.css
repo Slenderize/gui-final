@@ -1,0 +1,23 @@
+ul { padding:0; width:1200px; margin:20px auto}
+li { display:inline;}
+
+.tn {
+  margin:6px 6px;
+  border: 4px solid #eee;
+  box-shadow:#555 1px 1px 8px 1px;
+  cursor: pointer;
+  width: 300px;
+}
+
+h2{
+  margin-bottom: 20px;
+  font-size: 40px;
+  color: lightblue;
+  font-style: italic;
+  text-align: center;
+}
+
+div{
+  background: Url("https://awesomewallpapers.files.wordpress.com/2014/08/red-woods.jpg");
+  background-repeat: no-repeat;
+}
