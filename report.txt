@@ -1,0 +1,14 @@
+Worked with Jonathan Vasquez (student id 01440932). Chhayhout’s Work
+
+For this project, we used angular 5 and firebase. We uploaded the build project onto the cs server. if you want to run it on your pc, just run the command (ng serve) in the folder. 
+I added pictures of the firebase in the files that contain adddelete images, storage, and database. I created all the firebase files as well as some html files. Jonathan took care of all the front end while I took care of the backend of our application. Jonathan’s Work
+
+For this project we used angular 5 and firebase. Chhayhout handled all the backend work while I focused on the UI and front end of the application. I created all css files and some html files. I focused on making our application look prettier.
+
+http://www.cs.uml.edu/~cchhoeu/Final-GUI/login
+
+https://github.com/Slenderize/gui-final 
+
+To login to the website the info is required. 
+Email hout_45@yahoo.com 
+Password 123456 
